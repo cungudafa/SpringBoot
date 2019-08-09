@@ -1,0 +1,12 @@
+#spring:
+#datasource:
+#  url:jdbc:mysql://127.0.0.1:3306/springboot_mysql?serverTimezone=UTC&useSSL=false&characterEncoding=utf8
+#  driverClassName:com.mysql.cj.jdbc.Driver
+#  username:root
+#  password:wy123456
+#jpa:
+#  database:MYSQL
+#  show-sql:true
+#  hibernate:
+#    nameing_strategy:
+#    org.hibernate.cfg.ImprovedNamingStrategy
