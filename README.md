@@ -1,4 +1,4 @@
-# SpringBoot
+﻿# SpringBoot
 小白的Springboot学习记录，后面主要是为了结合vue前后端分离
 
 >详细参考细节参考：`cungudafa的CSDN博客分类——Springboot`
@@ -15,6 +15,24 @@
 6. apache maven3.6.0
 
 # 项目历程
+
+## SpringbootDay7
+
+2019/8/14
+
+`Lombok优雅的编码+Aop异常统一管理`
+
+Springboot后端和sql建表语句
+
+
+## SpringbootDay6
+
+2019/8/12
+
+`Vue+Springboot前后端分离——实现登录`
+
+Springboot后端和sql建表语句
+
 
 
 ## SpringbootDay5
