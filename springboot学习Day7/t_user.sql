@@ -11,7 +11,7 @@
  Target Server Version : 80013
  File Encoding         : 65001
 
- Date: 14/08/2019 18:46:14
+ Date: 17/08/2019 16:57:00
 */
 
 SET NAMES utf8mb4;
@@ -33,9 +33,41 @@ CREATE TABLE `t_user`  (
 -- ----------------------------
 -- Records of t_user
 -- ----------------------------
-INSERT INTO `t_user` VALUES (2, 'admin', 22, 'chongqing', 123456);
-INSERT INTO `t_user` VALUES (3, 'min', 19, 'beijing', 123456);
-INSERT INTO `t_user` VALUES (4, 'test', 20, 'beijing', 123456);
-INSERT INTO `t_user` VALUES (5, NULL, 19, 'shanghai', 123456);
+INSERT INTO `t_user` VALUES (1, '小王', 21, '重庆', 123456);
+INSERT INTO `t_user` VALUES (2, 'admin', 22, '重庆', 123456);
+INSERT INTO `t_user` VALUES (3, 'min', 19, '北京', 123456);
+INSERT INTO `t_user` VALUES (4, 'test', 20, '北京', 123456);
+INSERT INTO `t_user` VALUES (5, '小王', 19, '上海', 123456);
+INSERT INTO `t_user` VALUES (6, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (7, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (8, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (9, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (10, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (11, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (12, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (13, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (14, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (15, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (16, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (17, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (18, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (19, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (20, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (21, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (22, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (23, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (24, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (25, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (26, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (27, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (28, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (29, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (30, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (31, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (32, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (33, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (34, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (35, 'wang', 21, '上海', 123);
+INSERT INTO `t_user` VALUES (36, 'wang', 21, '上海', 123);
 
 SET FOREIGN_KEY_CHECKS = 1;
