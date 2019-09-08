@@ -14,6 +14,17 @@
 5. 数据库管理工具（Navicat Premium 12.0.16+mysql8.0）
 6. apache maven3.6.0
 
+
+## Redis
+
+2019/8/21
+
+`Springboot2整合Redis+Mysql`
+
+
+>参考：https://blog.csdn.net/cungudafa/article/details/100584350
+
+
 # 项目历程
 
 ## SpringbootDay9
